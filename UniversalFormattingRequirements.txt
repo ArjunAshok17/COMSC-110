@@ -1,0 +1,33 @@
+// Lab 
+// Programmer: Arjun Ashok
+// Editor(s) used: Visual Studio Code && Replit.com
+// Compiler(s) used: Visual Studio Code w/ MinGW && Replit.com
+//
+
+#include <algorithm>
+#include <deque> // Collections
+#include <fstream> // File IO
+#include <iomanip>
+#include <iostream> // Console IO
+#include <string> // String var
+
+using namespace std;
+
+#include <cctype>
+#include <cmath>
+#include <ctime> // For time and RNG
+#include <cstdlib>
+
+#ifdef _WIN32 // For timing and other OS differences
+#include <windows.h>
+#else
+#include <unistd.h>
+#endif
+
+int main(){
+    // Identification
+    cout << "Programmer: Arjun Ashok" << endl;
+    cout << "Description: This program " << endl << endl;
+
+    // Last statement is an endl;
+}
